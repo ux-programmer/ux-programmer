@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ux-programmer learning how to code.
+- 👋 Hi, I’m @ux-programmer learning backend development.
 - 👀 I’m interested in science and technology. 
-- 🌱 I’m currently learning frontend using React.
+- 🌱 I’m currently learning Node.js 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 uxprogrammer70@gmail.com
 
 <!---
 ux-programmer/ux-programmer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
