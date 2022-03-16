@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Zan Ye Htet
-- 👀 I’m interested in science and technology
+- 👀 I’m interested in backend development 
 - 🌱 I’m currently learning Node.js 
-- 💞️ I’m looking to collaborate on ...
 - 📫 uxprogrammer70@gmail.com
 
 <!---
