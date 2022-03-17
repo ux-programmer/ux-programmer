@@ -1,4 +1,4 @@
-- 👋 Hi, my name is Zan Ye Htet
+- 👋 Hi, my name's Zan Ye Htet
 - 👀 Interested in backend development  
 - 🌱 Currently learning Node.js 
 
