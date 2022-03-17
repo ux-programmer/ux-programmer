@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Zan Ye Htet
+- 👋 Hi, my name is Zan Ye Htet
 - 👀 I’m interested in backend development 
-- 🌱 I’m currently learning Node.js 
+- 🌱 Currently learning Node.js 
 - 📫 uxprogrammer70@gmail.com
 
 <!---
