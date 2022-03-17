@@ -1,5 +1,5 @@
 - 👋 Hi, my name is Zan Ye Htet
-- 👀 I’m interested in backend development 
+- 👀 Interested in backend development  
 - 🌱 Currently learning Node.js 
 
 <!---
